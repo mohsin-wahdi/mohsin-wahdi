@@ -67,4 +67,49 @@
     <img height="40" src="https://img.icons8.com/color/100/000000/GeeksforGeeks.png" alt="GeeksforGeeks"/>
   </a>&nbsp;&nbsp;
   <a href="#">
-    <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-codeforces-programming-competitions-and-contests-program
+    <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="CodeForces"/>
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img height="40" src="https://img.icons8.com/color/100/000000/ninja.png" alt="Coding Ninjas"/>
+  </a>
+</div>
+-->
+
+<h2 align="center">⚡ Current GitHub Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=380 src="https://streak-stats.demolab.com/?user=mohsin-wahdi&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+  <img width=360 src="https://github-readme-stats.vercel.app/api?username=mohsin-wahdi&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-wahdi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most Used Languages" />
+</div>
+
+<br/>
+<h2 align="center" style="color:#00bfff; font-family: 'Arial', sans-serif;">
+  🚀 Visitor Count
+</h2>
+
+<p align="center">
+  <img 
+    src="https://profile-counter.glitch.me/mohsin-wahdi/count.svg" 
+    alt="Visitor Count" 
+    height="40" 
+    style="border: 2px solid #00bfff; padding: 6px; border-radius: 8px;" 
+  />
+</p>
+
+<br/>
+
+<h2 style="color:#87CEEB; font-family: 'Arial', sans-serif; font-weight: bold; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);">📊 GitHub Activity 📊</h2>
+
+<a href="https://github.com/mohsin-wahdi" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsin-wahdi&theme=github-dark&hide_border=true&bg_color=0D1117&line=87CEEB&point=FFFFFF&title_color=FFFFFF" alt="Mohsin's GitHub Activity Graph" style="border: 3px solid white; border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" />
+</a>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Thanks" />
+</div>
+
