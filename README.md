@@ -10,20 +10,25 @@
 <div align="center">
   <a href="https://mohsinwahdi.netlify.app/">
     <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Website" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
+
   <a href="https://www.linkedin.com/in/mohsin-wahdi-35bb3b253/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohsin-wahdi-35bb3b253/">
+  </a>
+
+  <a href="https://twitter.com/">
     <img src="https://img.icons8.com/color/48/000000/twitterx--v1.png" alt="Twitter" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
+
   <a href="https://github.com/mohsin-wahdi">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohsinwahdi4158@gmail.com">
+  </a>
+
+  <a href="mailto:mohsinwahdi4158@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Mail" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
 </div>
+
 
 <h2>🧐 More About Me</h2>
 
